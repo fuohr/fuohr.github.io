@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fuohr.github.io/uvt/sitemap.uvt
